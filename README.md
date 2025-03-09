@@ -11,7 +11,7 @@ Un script para **Aegisub** que genera diálogos curvos utilizando `\frz` con opc
 - Permite generar texto curvo ajustando ángulos con precisión.
 - Interfaz interactiva para configurar parámetros del ángulo.
 - Compatible con cualquier estilo y diseño en Aegisub.
-- Incluye un divertido diseño de ASCII art en el cuadro de diálogo. 🎨
+- Incluye un diseño de ASCII de Saitama jaja
 
 ---
 
