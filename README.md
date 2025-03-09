@@ -1,4 +1,4 @@
-# Crear Diálogos Curvos
+# Generador de Dialogos Curvos para Aegisub
 
 **Versión:** 2.1  
 **Autor:** Kanela-Kun  
