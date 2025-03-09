@@ -3,7 +3,7 @@
 **Versión:** 2.1  
 **Autor:** Kanela-Kun  
 
-Un script para **Aegisub** que genera diálogos curvos utilizando `\frz` con opciones personalizables de ángulo. Este script es ideal para estilizar subtítulos y lograr efectos visuales únicos.
+Un script para **Aegisub** que genera diálogos curvos utilizando `\frz` con opciones personalizables de ángulo. Este script es ideal para estilizar subtítulos y lograr efectos visuales únicos. Es compatible con cualquier tipo de reproductor de video.
 
 ---
 
